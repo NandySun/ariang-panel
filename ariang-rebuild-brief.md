@@ -47,5 +47,5 @@ plugins/ariang/
 │   ├── app.js             # 前端逻辑 v4
 │   ├── base.css           # 结构骨架
 │   └── theme.css          # 主题颜色
-└── ariang-rebuild.zip     # 发布包
+└── ariang-panel.zip     # 发布包
 ```

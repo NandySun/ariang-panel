@@ -19,7 +19,7 @@ aria2 下载管理面板，HanaAgent 原生插件。
 
 ## 安装
 
-1. 下载 `ariang-rebuild.zip`
+1. 下载 `ariang-panel.zip`
 2. HanaAgent → 设置 → 插件 → 从本地安装
 3. 选择 zip 文件安装
 4. 侧边栏出现「下载」图标

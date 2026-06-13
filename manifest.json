@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "id": "ariang-rebuild",
+  "id": "ariang-panel",
   "name": "下载",
   "version": "1.0.0",
   "description": "aria2 下载管理面板",
