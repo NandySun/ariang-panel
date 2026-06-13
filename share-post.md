@@ -48,7 +48,7 @@
 
 整个插件零外部依赖。前端纯 HTML/CSS/JS，服务端一个代理路由，manifest 一百多行。主题色跟随 Hana 自动切换明暗，写了完整的两套 CSS 变量。说实话写 CSS 变量比写逻辑花的时间还多。
 
-代码放 GitHub 了，需要的自取。
+代码放 GitHub 了，需要的自取：github.com/NandySun/ariang-panel
 
 ---
 
